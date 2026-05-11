@@ -50,7 +50,7 @@ flowchart TD
     G --> H[LangChain + GPT-3.5<br/>AI Insights Engine]
 
 ```
-# SalesIQ — AI
+# TECH STACK
 
 | Layer           | Technologies                                |
 |----------------|----------------------------------------------|
