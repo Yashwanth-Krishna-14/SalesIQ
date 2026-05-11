@@ -48,8 +48,9 @@ flowchart TD
     E --> F
     F --> G[Streamlit Multi-Page Dashboard]
     G --> H[LangChain + GPT-3.5<br/>AI Insights Engine]
-
-#TECH STACK
+---
+```
+# SalesIQ — AI
 
 | Layer           | Technologies                                |
 |----------------|----------------------------------------------|
@@ -63,5 +64,4 @@ flowchart TD
 | Deployment     | Docker, Docker Compose                       |
 | Testing        | pytest                                       |
 | Others         | Faker, python-dotenv, Pathlib                |
-
----
+```
