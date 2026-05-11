@@ -48,3 +48,20 @@ flowchart TD
     E --> F
     F --> G[Streamlit Multi-Page Dashboard]
     G --> H[LangChain + GPT-3.5<br/>AI Insights Engine]
+
+#TECH STACK
+---
+| Layer           | Technologies                                |
+|----------------|----------------------------------------------|
+| Language       | Python 3.11                                  |
+| Data           | Pandas, NumPy                                |
+| Visualization  | Plotly, Seaborn, Matplotlib                  |
+| ML / Modeling  | Scikit-learn, XGBoost, KMeans                |
+| MLOps          | MLflow (Tracking + Artifacts)                |
+| LLM Integration| LangChain, OpenAI (GPT-3.5-turbo)            |
+| Frontend       | Streamlit (Multi-page)                       |
+| Deployment     | Docker, Docker Compose                       |
+| Testing        | pytest                                       |
+| Others         | Faker, python-dotenv, Pathlib                |
+
+---
