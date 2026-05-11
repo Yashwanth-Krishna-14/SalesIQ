@@ -50,7 +50,7 @@ flowchart TD
     G --> H[LangChain + GPT-3.5<br/>AI Insights Engine]
 
 #TECH STACK
----
+
 | Layer           | Technologies                                |
 |----------------|----------------------------------------------|
 | Language       | Python 3.11                                  |
